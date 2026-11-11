@@ -1,6 +1,6 @@
 # Shapes
 
-## Rectangle
+## Rectangle & Circle
 
 1. Sketch > Click which plane shape should be on > Corner Rectangle
 2. Draw Rectangle
@@ -9,3 +9,6 @@
 5. Click Dimensions
 6. Choose the dimension to change
 7. Change it
+
+## Cylinder
+

@@ -12,3 +12,4 @@
 
 ## Cylinder
 
+1. Sketch > Edit
